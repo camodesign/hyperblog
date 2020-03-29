@@ -42,7 +42,17 @@ body {
   font-size: 0.8em;
 }
 
+
 #logo {
   width: 20px;
-  vertical-align: middle;
+  vertical-align: middle; 
+}
+
+#footer {
+  padding: 1px 0;
+  background-color: #777;
+  text-align: center;
+  color: aliceblue;
+  font-weight: bold;
+
 }
